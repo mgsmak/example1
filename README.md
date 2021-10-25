@@ -5,3 +5,5 @@ Got the error "We couldn’t deliver this payload: cannot validate certificate f
 
 Second try!
 Another try!
+
+Modified the webhook configuration to http and Contenttype  application/json and it says it works on github. Retrying. 
